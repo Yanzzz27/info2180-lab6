@@ -1,0 +1,22 @@
+#container {
+    background-color: purple;
+    color: 	#FFFFFF;
+    padding-left: 3%;
+    padding-top:6%;
+    padding-bottom: 6%;
+}
+
+#style {
+    background-color: #D3D3D3;
+    padding-left: 3%
+}
+#Sbody{
+    max-width: 800px;
+    margin: auto;
+    padding: 7em;
+}
+
+#hrid{
+    width:10%;
+    
+}
